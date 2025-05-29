@@ -51,9 +51,7 @@ Get your own credentials at the [Spotify Developer Dashboard](https://developer.
 ▶️ Usage
 
 Run the script:
-
 Double click on launch.py or py launch.py in cmd,
-
 You'll be prompted to choose a platform and paste the media URL.
 ```
 ### 🧭 Options
