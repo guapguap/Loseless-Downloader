@@ -26,15 +26,16 @@ Supports high-quality downloads, embedded thumbnails, and automatic metadata tag
 
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/guapguap/Loseless-Downloader.git
+
 cd Loseless-Downloader
 
 ### 2. Install dependencies
 
-```bash
 pip install -r requirements.txt
-3. Configure Spotify API credentials
+
+### 3. Configure Spotify API credentials
 
 ⚠️ The .env file is already included, but you should replace the credentials with your own.
 
@@ -45,7 +46,7 @@ SPOTIFY_CLIENT_ID=your_spotify_client_id
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 Get your own credentials at the Spotify Developer Dashboard.
 
-4. Make sure FFmpeg is installed and accessible from your system terminal
+### 4. Make sure FFmpeg is installed and accessible from your system terminal
 ▶️ Usage
 Run the script:
 
@@ -53,14 +54,14 @@ Run the script:
 python launch.py
 You'll be prompted to choose a platform and paste the media URL.
 
-🧭 Options
-
+### 🧭 Options
+```
 1: Download YouTube video (MP4)
 2: Download YouTube audio (MP3)
 3: Download SoundCloud audio (MP3)
 4: Download Spotify track (via YouTube, with metadata)
 📁 Output
 Downloaded files will be saved in a Downloads/ folder created in the project directory.
-
+```
 📄 License
 MIT License — see the LICENSE file for details.
