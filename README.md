@@ -42,10 +42,9 @@ Example `.env` content:
 
 SPOTIFY_CLIENT_ID=your_spotify_client_id
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
-
+```
 Get your own credentials at the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications).
-
-
+```
 ```
 ### 4. Make sure FFmpeg is installed and accessible from your system terminal
 ```
