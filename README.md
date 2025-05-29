@@ -60,6 +60,7 @@ You'll be prompted to choose a platform and paste the media URL.
 2: Download YouTube audio (MP3)
 3: Download SoundCloud audio (MP3)
 4: Download Spotify track (via YouTube, with metadata)
+
 📁 Output
 Downloaded files will be saved in a Downloads/ folder created in the project directory.
 ```
