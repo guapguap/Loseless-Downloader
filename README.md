@@ -47,7 +47,7 @@ Get your own credentials at the [Spotify Developer Dashboard](https://developer.
 
 ```
 ### 4. Make sure FFmpeg is installed and accessible from your system terminal
-
+```
 ▶️ Usage
 
 Run the script:
@@ -55,6 +55,7 @@ Run the script:
 Double click on launch.py or py launch.py in cmd,
 
 You'll be prompted to choose a platform and paste the media URL.
+```
 ### 🧭 Options
 
 1: Download YouTube video (MP4)
@@ -63,6 +64,6 @@ You'll be prompted to choose a platform and paste the media URL.
 4: Download Spotify track (via YouTube, with metadata)
 📁 Output
 Downloaded files will be saved in a Downloads/ folder created in the project directory.
-```
+
 📄 License
 MIT License — see the LICENSE file for details.
