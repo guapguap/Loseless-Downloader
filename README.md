@@ -45,7 +45,6 @@ SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 ```
 Get your own credentials at the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications).
 ```
-```
 ### 4. Make sure FFmpeg is installed and accessible from your system terminal
 ```
 ▶️ Usage
@@ -65,4 +64,4 @@ You'll be prompted to choose a platform and paste the media URL.
 Downloaded files will be saved in a Downloads/ folder created in the project directory.
 ```
 📄 License
-MIT License — see the LICENSE file for details.
+MIT License — see the [LICENSE](./LICENSE) file for details.
