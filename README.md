@@ -25,18 +25,17 @@ Supports high-quality downloads, embedded thumbnails, and automatic metadata tag
 ## 🚀 Installation
 
 ### 1. Clone the repository
-
-
+```
 git clone https://github.com/guapguap/Loseless-Downloader.git
 
 cd Loseless-Downloader
 
 ### 2. Install dependencies
-
+```
 pip install -r requirements.txt
 
 ### 3. Configure Spotify API credentials
-
+```
 ⚠️ The .env file is already included, but you should replace the credentials with your own.
 
 Example .env content:
@@ -47,6 +46,7 @@ SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 Get your own credentials at the Spotify Developer Dashboard.
 
 ### 4. Make sure FFmpeg is installed and accessible from your system terminal
+```
 ▶️ Usage
 Run the script:
 
