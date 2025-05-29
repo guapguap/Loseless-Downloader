@@ -29,7 +29,8 @@ Supports high-quality downloads, embedded thumbnails, and automatic metadata tag
 ```bash
 git clone https://github.com/guapguap/Loseless-Downloader.git
 cd Loseless-Downloader
-2. Install dependencies
+
+###2. Install dependencies
 
 pip install -r requirements.txt
 3. Configure Spotify API credentials
