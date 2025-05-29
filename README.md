@@ -46,16 +46,16 @@ SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 Get your own credentials at the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications).
 
 ```
-4. Make sure FFmpeg is installed and accessible from your system terminal
+### 4. Make sure FFmpeg is installed and accessible from your system terminal
 
 ▶️ Usage
+
 Run the script:
 
+Double click on launch.py or py launch.py in cmd,
 
-python launch.py
 You'll be prompted to choose a platform and paste the media URL.
-
-🧭 Options
+### 🧭 Options
 
 1: Download YouTube video (MP4)
 2: Download YouTube audio (MP3)
