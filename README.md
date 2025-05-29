@@ -38,23 +38,25 @@ pip install -r requirements.txt
 ⚠️ The `.env` file is already included, but **you should replace the credentials with your own** for better reliability.
 
 Example `.env` content:
+
+
 SPOTIFY_CLIENT_ID=your_spotify_client_id
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 
-Get your own credentials at the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/).
+Get your own credentials at the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications).
 
-```
-### 4. Make sure FFmpeg is installed and accessible from your system terminal
-```
+
+4. Make sure FFmpeg is installed and accessible from your system terminal
+
 ▶️ Usage
 Run the script:
 
 
 python launch.py
 You'll be prompted to choose a platform and paste the media URL.
-```
-### 🧭 Options
-```
+
+🧭 Options
+
 1: Download YouTube video (MP4)
 2: Download YouTube audio (MP3)
 3: Download SoundCloud audio (MP3)
